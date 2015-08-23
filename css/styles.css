@@ -1,0 +1,67 @@
+/*----------------------------------------------
+nav
+----------------------------------------------*/
+
+
+
+
+
+/*----------------------------------------------
+jumbotron
+----------------------------------------------*/
+.jumbotron {
+	background: url('http://i.imgur.com/NmCdU1b.jpg') no-repeat;
+	background-size: 100%;
+	height: 40em;
+	color: white;
+}
+
+.jumboContent {
+	margin-left: 8%;
+	display: inline-block;
+	margin-top: 11%;
+}
+
+
+
+
+/*-------------------------------------------------
+row one
+--------------------------------------------------*/
+
+.contentContainer {
+	text-align: center;
+	border: 1px solid black;
+
+}
+
+.rowOne i {
+	display: inline-block;
+	font-size: 5em;
+	color: #000;
+}
+
+.pillar {
+
+}
+
+.rowOne .caption {
+	font-size: 1.1em;
+	margin-top: 4%;
+	border: 1px solid black;
+
+}
+
+
+.btn-rowOne {
+	font-size: 1em;
+	display: inline-block;
+	width: 6em;
+	text-align: center;
+	padding: 2%;
+	margin-bottom: 3%;	
+}
+
+.rowOne .title {
+	margin-top: 4%;
+}
